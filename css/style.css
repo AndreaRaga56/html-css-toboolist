@@ -87,6 +87,7 @@ ul{
 
 /* classe editorial */
 .edi{
+    display: inline-block;
     color: white;
     background-color: rgb(18, 148, 209);
     border-radius: 6px;
@@ -96,6 +97,7 @@ ul{
 
 /* classe q1 goals */
 .q1{
+    display: inline-block;
     color: white;
     background-color: rgba(123, 26, 193, 0.992);
     border-radius: 6px;
@@ -104,6 +106,7 @@ ul{
 
 /* classe recruitig */
 .recruiting{
+    display: inline-block;
     color: white;
     background-color: rgb(12, 151, 135);
     border-radius: 6px;
@@ -112,6 +115,7 @@ ul{
 
 /* classe mobile */
 .mobile{
+    display: inline-block;
     color: white;
     background-color: orange;
     border-radius: 6px;
@@ -120,6 +124,7 @@ ul{
 
 /* classe website */
 .website{
+    display: inline-block;
     color: white;
     background-color: rgb(250, 47, 172);
     border-radius: 6px;
@@ -128,6 +133,7 @@ ul{
 
 /* classe sales */
 .sales{
+    display: inline-block;
     color: white;
     background-color: rgb(139, 170, 59);
     border-radius: 6px;
